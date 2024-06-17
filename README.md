@@ -1,1 +1,1 @@
-# first-repository
+# ai stock trader
